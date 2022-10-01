@@ -1,0 +1,27 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+.img-head{
+    width: 600px;
+    height: 400px;
+}
+.text-hero{
+    margin: 50px 0px;
+    display: flex;
+    justify-content:center;
+    align-items: left;
+    flex-direction: column;
+    
+}
+.logo{
+    color: aqua;
+}
+.btn{
+  padding: 10px 20px;
+  width: 100px;
+}
+.map{
+    width: 100%;
+}
